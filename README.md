@@ -12,7 +12,7 @@ backup_file
   
   B2: Tải file shell backup theo đường link sau. Đặt file shell vào thư mục bạn lựa chọn ở đấy mình đặt trong thư mục /root. 
   
-    wget https://raw.githubusercontent.com/daokhactuan48/Backup/master/backup.sh
+    wget https://github.com/thanhha123/backup_file/blob/master/backupfile.sh
   
   
   B3: Cài đặt Cron trên Ubuntu: 
