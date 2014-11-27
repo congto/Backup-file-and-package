@@ -2,7 +2,7 @@
 echo " Start restore!!!!!!"
 directory1="etc"
 directory2="var"
-find . -maxdepth 1 -name "*.tar" -exec tar -xvf {} ;
+find . -maxdepth 1 -name "*.tar" -exec tar -xvf {} \;
 if [ -d $directory1 ]
 then
 rsync -rv etc/ /etc/
