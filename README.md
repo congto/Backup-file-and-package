@@ -33,7 +33,14 @@ Backup file and package
     
   B6: Chay file script. Hoan thanh qua trinh backup file
 
-# B. Backup package
+
+# B. Restore lại hệ thống
+B1. Tải script theo đường dẫn
+https://github.com/thanhha123/Backup-file-and-package/blob/master/restore.sh
+B2. Đưa script và các file cần backup vào 1 thư mục 
+B3. Chạy script để restore lại hệ thống
+
+# C. Backup package
 
 ## I. Mục tiêu 
   Mục tiêu của bài viết lập lịch cho khoảng thời gian backup các packgage cài đặt trong thư mục /var/cache/apt/archives/
