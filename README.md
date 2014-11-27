@@ -1,6 +1,6 @@
 backup_file
 ===========
-# A Backup file
+# A. Backup file
 ## I. Mục tiêu 
   Mục tiêu của bài viết lập lịch cho khoảng thời gian backup file trong hệ thống. 
   
@@ -33,7 +33,7 @@ backup_file
     
   B6: Chay file script. Hoan thanh qua trinh backup file
 
-# B Backup package
+# B. Backup package
 
 ## I. Mục tiêu 
   Mục tiêu của bài viết lập lịch cho khoảng thời gian backup các packgage cài đặt trong thư mục /var/cache/apt/archives/
