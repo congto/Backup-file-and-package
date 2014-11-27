@@ -31,7 +31,7 @@ Backup file and package
   
     0 0,13 * * * bash /root/backup.sh 
     
-  B6: Chay file script. Hoan thanh qua trinh backup file
+  B6: Chay file script. Hoàn thành quá trình backup file
 
 
 # B. Restore lại hệ thống
