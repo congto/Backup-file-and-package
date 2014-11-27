@@ -13,7 +13,6 @@ arr=$(echo $i | tr "/" "_")
 
     for x in $arr
     do
-
     tar -cf /root/backup/"$time""$x".tar $i
     done
 done
