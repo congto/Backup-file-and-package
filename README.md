@@ -11,11 +11,11 @@ Backup file and package
   
     /root/backup
   
-  B2: Tải file shell backup theo đường link sau. Đặt file shell vào thư mục bạn lựa chọn ở đấy mình đặt trong thư mục /root. 
+  B2: Tải file shell backup và file path.txt theo đường link sau. Đặt file shell vào thư mục bạn lựa chọn ở đấy mình đặt trong thư mục /root. 
   
     wget https://github.com/thanhha123/Backup-file-and-package/blob/master/backupfile.sh
   
-  
+    https://github.com/thanhha123/Backup-file-and-package/blob/master/path.txt
   B3: Cài đặt Cron trên Ubuntu: 
 
     # apt-get updte 
