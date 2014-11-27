@@ -36,8 +36,11 @@ Backup file and package
 
 # B. Restore lại hệ thống
 B1. Tải script theo đường dẫn
+
 https://github.com/thanhha123/Backup-file-and-package/blob/master/restore.sh
+
 B2. Đưa script và các file cần backup vào 1 thư mục 
+
 B3. Chạy script để restore lại hệ thống
 
 # C. Backup package
